@@ -1,2 +1,2 @@
 # hello-dudes
-A github project
+A github project that is testing the viability of version control....
